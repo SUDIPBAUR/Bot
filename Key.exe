@@ -1,0 +1,4 @@
+pip install streamlit ccxt tensorflow ta
+export BINANCE_API_KEY="zSytUpX7UqgSZH2Ig9DrTpEQTR77wBqTwldiLIrwoJWpXUU1ksUAywdxUWVMtCsm"
+export BINANCE_API_SECRET="orEZ15ayLiAfBjwYuEDLlTsNwrp4hIec8GSyWvOqmEbImpzsjJU9PmKbpxRqijzu"
+streamlit run your_script.py
